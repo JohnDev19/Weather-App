@@ -2,6 +2,9 @@
 
 This Weather App is a simple and user-friendly application that allows users to search for the current weather conditions in any city. It provides real-time weather updates including temperature, humidity, wind speed, and atmospheric pressure. The app also allows users to switch between Celsius and Fahrenheit units.
 
+![image](https://github.com/JohnDev19/Weather-App/assets/137758073/53a7e7c5-4f57-4f6c-9257-8f5b9c38ec21)
+
+
 ## Features
 
 - **Search Functionality**: Users can search for the weather in any city.
